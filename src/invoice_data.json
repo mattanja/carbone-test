@@ -1,0 +1,31 @@
+{
+  "id": 42,
+  "date": 1492012745,
+  "company": {
+    "name": "awesomeCompany",
+    "address": "77 Bleecker Street",
+    "city": "Manhattan, New York",
+    "postalCode": 10012
+  },
+  "customer": {
+    "name": "customerName",
+    "address": "2 Random Street",
+    "city": "Far Far Away",
+    "postalCode": 85000
+  },
+  "products": [
+    {
+      "name": "product 1",
+      "priceUnit": 0.1,
+      "quantity": 10,
+      "priceTotal": 1
+    },
+    {
+      "name": "product 2",
+      "priceUnit": 0.2,
+      "quantity": 20,
+      "priceTotal": 4
+    }
+  ],
+  "total": 5
+}
